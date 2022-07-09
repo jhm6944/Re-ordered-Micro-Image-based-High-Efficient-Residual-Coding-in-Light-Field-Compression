@@ -1,4 +1,4 @@
-# Re-ordered-Micro-Image-based-High-Efficient-Residual-Coding-in-Light-Field-Compression
+# Re-ordered Micro Image based High Efficient Residual Coding in Light Field Compression
 
 This github page is for the paper "Re-ordered-Micro-Image-based-High-Efficient-Residual-Coding-in-Light-Field-Compression"
 
